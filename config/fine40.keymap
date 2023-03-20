@@ -26,7 +26,7 @@
 &kp SPACE  &lt 1 SLASH   &kp LEFT    &kp DOWN  &kp RIGHT  &kp C_MUTE
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
+            sensor-bindings = <&inc_dec_kp C_VOL_DN C_VOL_UP>;
         };
 
         right {
